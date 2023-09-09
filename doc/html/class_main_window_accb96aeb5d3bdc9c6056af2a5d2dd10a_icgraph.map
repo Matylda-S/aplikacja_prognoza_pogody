@@ -1,0 +1,4 @@
+<map id="MainWindow::load_weather_wroc" name="MainWindow::load_weather_wroc">
+<area shape="rect" id="node1" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace prognozy pogody dla Wrocławia." alt="" coords="264,5,503,32"/>
+<area shape="rect" id="node2" href="$class_main_window.html#acd459687ee8700e619346d8631fb3ea7" title="Metoda wywolujaca odpowiedni slot w zależności od wyboru miasta powoduje pobranie odpowiednich danych..." alt="" coords="5,5,216,32"/>
+</map>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>rysunek.svg</file>
+        <file>rysunek2.svg</file>
+        <file>deszcz.svg</file>
+        <file>chmurka.svg</file>
+        <file>rysunek_slonce.svg</file>
+        <file>mgla.svg</file>
+        <file>sniezynka.svg</file>
+        <file>slonce_2.svg</file>
+        <file>slonce.svg</file>
+        <file>burza.svg</file>
+    </qresource>
+</RCC>

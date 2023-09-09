@@ -1,0 +1,10 @@
+<map id="MainWindow::ReloadButton" name="MainWindow::ReloadButton">
+<area shape="rect" id="node1" title="Slot reaguje na naciśniecię przycisku &quot;odśwież&quot; powoduje ponowne pobranie danych dotyczacych obecnej ..." alt="" coords="5,107,207,133"/>
+<area shape="rect" id="node2" href="$class_main_window.html#a583231fad3ed8279193fea7f9da0e416" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="260,56,456,83"/>
+<area shape="rect" id="node5" href="$class_main_window.html#ab69e046511ed3f88b02449caddf2a634" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="257,107,459,133"/>
+<area shape="rect" id="node6" href="$class_main_window.html#ac7d93a054ab78fe2abf8c8130e2f3124" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="259,157,457,184"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a7d22f8af4a13096f39b64b0a5524d57c" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="259,208,457,235"/>
+<area shape="rect" id="node8" href="$class_main_window.html#a92ee041c232f23361f87e226e91d0ede" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="255,5,461,32"/>
+<area shape="rect" id="node3" href="$class_file_downloader.html#a757786f213be41cb7edc21229cf60d68" title="Metoda wraca pobrane dane zwraca pobrane dane w formacie QByteArray." alt="" coords="509,81,751,108"/>
+<area shape="rect" id="node4" href="$mainwindow_8cpp.html#a73ed9d10ef1b3c2053cedd05e388b074" title="Funkcja zwracajaca kierunek geograficzny zwraca nazwe warunkow atmoserycznych w zaleznosci od kodu po..." alt="" coords="555,132,705,159"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MainWindow::load_weather_war" name="MainWindow::load_weather_war">
+<area shape="rect" id="node1" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace prognozy pogody dla Warszawy." alt="" coords="5,31,237,57"/>
+<area shape="rect" id="node2" href="$class_file_downloader.html#a757786f213be41cb7edc21229cf60d68" title="Metoda wraca pobrane dane zwraca pobrane dane w formacie QByteArray." alt="" coords="285,5,527,32"/>
+<area shape="rect" id="node3" href="$mainwindow_8cpp.html#a73ed9d10ef1b3c2053cedd05e388b074" title="Funkcja zwracajaca kierunek geograficzny zwraca nazwe warunkow atmoserycznych w zaleznosci od kodu po..." alt="" coords="331,56,481,83"/>
+</map>

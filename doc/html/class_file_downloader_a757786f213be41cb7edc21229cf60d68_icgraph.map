@@ -1,0 +1,16 @@
+<map id="FileDownloader::downloadedData" name="FileDownloader::downloadedData">
+<area shape="rect" id="node1" title="Metoda wraca pobrane dane zwraca pobrane dane w formacie QByteArray." alt="" coords="551,233,792,260"/>
+<area shape="rect" id="node2" href="$class_main_window.html#a36302652761e52eee24119cf4adb6240" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace prognozy pogody dla Krakowa." alt="" coords="269,107,498,133"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a82ace959e67d6cb00dfcd9e53dcaf65d" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace prognozy pogody dla Łodzi." alt="" coords="266,157,501,184"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a993915e0620ec280a752ec5e51fc041f" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace prognozy pogody dla Poznania." alt="" coords="268,5,499,32"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a7f055d1b84e40329d80a167fe0d38513" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace prognozy pogody dla Warszawy." alt="" coords="267,208,499,235"/>
+<area shape="rect" id="node8" href="$class_main_window.html#accb96aeb5d3bdc9c6056af2a5d2dd10a" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace prognozy pogody dla Wrocławia." alt="" coords="264,56,503,83"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a583231fad3ed8279193fea7f9da0e416" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="285,309,481,336"/>
+<area shape="rect" id="node11" href="$class_main_window.html#ab69e046511ed3f88b02449caddf2a634" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="282,360,485,387"/>
+<area shape="rect" id="node12" href="$class_main_window.html#ac7d93a054ab78fe2abf8c8130e2f3124" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="284,411,483,437"/>
+<area shape="rect" id="node13" href="$class_main_window.html#a7d22f8af4a13096f39b64b0a5524d57c" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="284,461,483,488"/>
+<area shape="rect" id="node14" href="$class_main_window.html#a92ee041c232f23361f87e226e91d0ede" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="280,259,487,285"/>
+<area shape="rect" id="node3" href="$class_main_window.html#acd459687ee8700e619346d8631fb3ea7" title="Metoda wywolujaca odpowiedni slot w zależności od wyboru miasta powoduje pobranie odpowiednich danych..." alt="" coords="5,107,216,133"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="12,309,209,336"/>
+<area shape="rect" id="node10" href="$class_main_window.html#ae7cd39bf91c0e657f174eda1d81f6d17" title="Slot reaguje na naciśniecię przycisku &quot;odśwież&quot; powoduje ponowne pobranie danych dotyczacych obecnej ..." alt="" coords="10,360,211,387"/>
+</map>

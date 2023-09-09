@@ -1,0 +1,5 @@
+<map id="MainWindow::load_weather_war" name="MainWindow::load_weather_war">
+<area shape="rect" id="node1" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace prognozy pogody dla Warszawy." alt="" coords="264,31,496,57"/>
+<area shape="rect" id="node2" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="12,5,209,32"/>
+<area shape="rect" id="node3" href="$class_main_window.html#acd459687ee8700e619346d8631fb3ea7" title="Metoda wywolujaca odpowiedni slot w zależności od wyboru miasta powoduje pobranie odpowiednich danych..." alt="" coords="5,56,216,83"/>
+</map>

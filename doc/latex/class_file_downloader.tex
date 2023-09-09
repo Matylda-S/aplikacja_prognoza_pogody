@@ -1,0 +1,109 @@
+\hypertarget{class_file_downloader}{}\doxysection{File\+Downloader Class Reference}
+\label{class_file_downloader}\index{FileDownloader@{FileDownloader}}
+
+
+{\ttfamily \#include $<$filedownloader.\+hh$>$}
+
+
+
+Inheritance diagram for File\+Downloader\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=172pt]{class_file_downloader__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for File\+Downloader\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=172pt]{class_file_downloader__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Signals}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_file_downloader_a7db4dc6a2c111233285ce0a18b6d6b72}{downloaded}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_file_downloader_a93ecf3469d79b18101e1e6a9442bf3b2}{File\+Downloader}} (QUrl text\+Url, QObject $\ast$parent=0)
+\item 
+virtual \mbox{\hyperlink{class_file_downloader_aca2c406b38e2c9a38a9e380c8c6290ab}{$\sim$\+File\+Downloader}} ()
+\item 
+QByte\+Array \mbox{\hyperlink{class_file_downloader_a757786f213be41cb7edc21229cf60d68}{downloaded\+Data}} () const
+\item 
+void \mbox{\hyperlink{class_file_downloader_a9582037fe7bcc5dd1590d1ed4e94118e}{clear}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+
+
+Definition at line 13 of file filedownloader.\+hh.
+
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_file_downloader_a93ecf3469d79b18101e1e6a9442bf3b2}\label{class_file_downloader_a93ecf3469d79b18101e1e6a9442bf3b2}} 
+\index{FileDownloader@{FileDownloader}!FileDownloader@{FileDownloader}}
+\index{FileDownloader@{FileDownloader}!FileDownloader@{FileDownloader}}
+\doxysubsubsection{\texorpdfstring{FileDownloader()}{FileDownloader()}}
+{\footnotesize\ttfamily File\+Downloader\+::\+File\+Downloader (\begin{DoxyParamCaption}\item[{QUrl}]{text\+Url,  }\item[{QObject $\ast$}]{parent = {\ttfamily 0} }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [explicit]}}
+
+klasa filedownloader służy do pobierania plików
+
+inicjalizacja obiektu tej klasy jako argumenty przyjnuje adres Url strony z której będą pobieranedane oraz rodzica 
+
+Definition at line 10 of file filedownloader.\+cpp.
+
+\mbox{\Hypertarget{class_file_downloader_aca2c406b38e2c9a38a9e380c8c6290ab}\label{class_file_downloader_aca2c406b38e2c9a38a9e380c8c6290ab}} 
+\index{FileDownloader@{FileDownloader}!````~FileDownloader@{$\sim$FileDownloader}}
+\index{````~FileDownloader@{$\sim$FileDownloader}!FileDownloader@{FileDownloader}}
+\doxysubsubsection{\texorpdfstring{$\sim$FileDownloader()}{~FileDownloader()}}
+{\footnotesize\ttfamily File\+Downloader\+::$\sim$\+File\+Downloader (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+
+
+Definition at line 23 of file filedownloader.\+cpp.
+
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_file_downloader_a9582037fe7bcc5dd1590d1ed4e94118e}\label{class_file_downloader_a9582037fe7bcc5dd1590d1ed4e94118e}} 
+\index{FileDownloader@{FileDownloader}!clear@{clear}}
+\index{clear@{clear}!FileDownloader@{FileDownloader}}
+\doxysubsubsection{\texorpdfstring{clear()}{clear()}}
+{\footnotesize\ttfamily void File\+Downloader\+::clear (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+czyści pobrane dane z bufora 
+
+Definition at line 37 of file filedownloader.\+cpp.
+
+\mbox{\Hypertarget{class_file_downloader_a7db4dc6a2c111233285ce0a18b6d6b72}\label{class_file_downloader_a7db4dc6a2c111233285ce0a18b6d6b72}} 
+\index{FileDownloader@{FileDownloader}!downloaded@{downloaded}}
+\index{downloaded@{downloaded}!FileDownloader@{FileDownloader}}
+\doxysubsubsection{\texorpdfstring{downloaded}{downloaded}}
+{\footnotesize\ttfamily void File\+Downloader\+::downloaded (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [signal]}}
+
+\mbox{\Hypertarget{class_file_downloader_a757786f213be41cb7edc21229cf60d68}\label{class_file_downloader_a757786f213be41cb7edc21229cf60d68}} 
+\index{FileDownloader@{FileDownloader}!downloadedData@{downloadedData}}
+\index{downloadedData@{downloadedData}!FileDownloader@{FileDownloader}}
+\doxysubsubsection{\texorpdfstring{downloadedData()}{downloadedData()}}
+{\footnotesize\ttfamily QByte\+Array File\+Downloader\+::downloaded\+Data (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const}
+
+zwraca pobrane dane w formacie QByte\+Array 
+
+Definition at line 33 of file filedownloader.\+cpp.
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{filedownloader_8hh}{filedownloader.\+hh}}\item 
+\mbox{\hyperlink{filedownloader_8cpp}{filedownloader.\+cpp}}\end{DoxyCompactItemize}

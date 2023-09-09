@@ -1,0 +1,5 @@
+<map id="MainWindow::loadText_lodz" name="MainWindow::loadText_lodz">
+<area shape="rect" id="node1" title="Metoda odczytuje,przetwarza i wyświetla dane dotycznace temperatury i czasów schodu i zachodu słońca ..." alt="" coords="255,31,457,57"/>
+<area shape="rect" id="node2" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title=" " alt="" coords="7,5,205,32"/>
+<area shape="rect" id="node3" href="$class_main_window.html#ae7cd39bf91c0e657f174eda1d81f6d17" title="Slot reaguje na naciśniecię przycisku &quot;odśwież&quot; powoduje ponowne pobranie danych dotyczacych obecnej ..." alt="" coords="5,56,207,83"/>
+</map>
